@@ -331,7 +331,7 @@ def create_streamlit_dashboard():
     These findings have important implications for urban planning, agriculture, and climate adaptation strategies in Rome and similar Mediterranean climates.
     Further research could focus on extreme weather events, urban heat island effects, and more granular spatial analysis of climate patterns in the region.
     """)
-    st.footer("Created by [Prashanth Reddy Putta](https://www.linkedin.com/in/prashanthreddyputta/) | Powered by Streamlit")
+    st.markdown("Created by [Prashanth Reddy Putta](https://www.linkedin.com/in/prashanthreddyputta/) | Powered by Streamlit")
 
 
 if __name__ == "__main__":
