@@ -1,4 +1,4 @@
-## Readme for Rome Weather Analysis Dashboard
+## Rome Weather Analysis Dashboard
 
 This Streamlit app provides a comprehensive analysis of historical weather data for Rome, Italy, spanning from 1950 to 2022. The app utilizes various analytical and visualization techniques to explore climate patterns, trends, and potential impacts of climate change on Rome's weather.
 
