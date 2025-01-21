@@ -205,12 +205,11 @@ def create_streamlit_dashboard():
     st.plotly_chart(create_climate_change_plot(df), use_container_width=True)
     st.write("""
     **Insights:**
-    - The temperature anomaly shows a clear upward trend over time.
-    - More positive anomalies (warmer than average) in recent years.
+    - The temperature anomaly does not show a clear upward trend over time.
+    - Recent years (post-2000) exhibit more consistent values closer to zero, with fewer extreme anomalies than earlier periods.
     
     **Key Findings:**
-    - Rome is experiencing a warming trend consistent with global climate change patterns.
-    - The rate of warming appears to be accelerating in recent decades.
+    - The rate of change in temperature anomalies suggests a slight cooling trend over the decades, contrary to global warming patterns observed elsewhere.
     """)
 
     # Precipitation Analysis
