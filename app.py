@@ -321,13 +321,13 @@ def create_streamlit_dashboard():
     st.write("""
     This comprehensive analysis of Rome's weather data from 1950 to 2022 reveals several important insights:
 
-    1. Long-term temperature trends show a clear warming pattern, consistent with global climate change observations.
-    2. Seasonal patterns in temperature and precipitation remain strong, but there are indications of changing patterns over time.
-    3. There are significant correlations between different weather variables, highlighting the complex interactions in Rome's climate system.
-    4. The Mann-Kendall test confirms a statistically significant trend in average temperatures.
-    5. Machine learning models, particularly Random Forest, show promising results in predicting average temperatures, suggesting that 
+   # 1. Long-term temperature trends show a clear warming pattern, consistent with global climate change observations.
+    1. Seasonal patterns in temperature and precipitation remain strong, but there are indications of changing patterns over time.
+    2. There are significant correlations between different weather variables, highlighting the complex interactions in Rome's climate system.
+    3. The Mann-Kendall test confirms a statistically significant trend in average temperatures.
+    4. Machine learning models, particularly Random Forest, show promising results in predicting average temperatures, suggesting that 
        Rome's climate, while complex, has predictable patterns.
-    6. Data assimilation techniques demonstrate how we can combine observations with model forecasts to improve our understanding and prediction of weather patterns.
+    5. Data assimilation techniques demonstrate how we can combine observations with model forecasts to improve our understanding and prediction of weather patterns.
 
     These findings have important implications for urban planning, agriculture, and climate adaptation strategies in Rome and similar Mediterranean climates.
     Further research could focus on extreme weather events, urban heat island effects, and more granular spatial analysis of climate patterns in the region.
